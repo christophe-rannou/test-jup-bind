@@ -1,0 +1,1 @@
+-e git://github.com/ovh/prescience-client.git#egg=prescience-client
